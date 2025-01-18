@@ -1,4 +1,4 @@
-# Role Playing Game
+# Dragon Repeller Role Playing Game
 
 ![Screenshot of application](<Screenshot 2025-01-17 at 13.30.52.png>)
 
