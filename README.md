@@ -88,6 +88,6 @@ This project is licensed under the MIT License - see the [MIT License](https://o
 
 ## Contact
 
-For any questions, please contact us:
+For any questions, please contact me:
 
   - [viren15152](https://github.com/viren15152)
